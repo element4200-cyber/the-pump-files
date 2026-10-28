@@ -9,3 +9,6 @@
 
 /* Official Pump.fun pill identifies the renamed publication. */
 .brand-icon{display:block;object-fit:contain;border:0;border-radius:0;background:transparent;transform:none;mix-blend-mode:multiply;flex-shrink:0}
+
+/* Public token contract, always visible at the top. */
+.ca-bar{display:flex;align-items:center;justify-content:center;gap:15px;padding:12px 24px;background:var(--ink);color:var(--paper);border-bottom:1px solid var(--ink);font:500 11px/1.5 var(--mono)}.ca-label{color:var(--lime);font-weight:700;flex-shrink:0}.ca-bar code{font:500 12px/1.6 var(--mono);overflow-wrap:anywhere;min-width:0;user-select:all}.ca-copy{background:var(--lime);color:var(--ink);border:1px solid var(--lime);border-radius:4px;padding:6px 10px;font:600 10px var(--mono);white-space:nowrap;flex-shrink:0}.ca-copy:hover{background:var(--paper);border-color:var(--paper)}.ca-copy:disabled{opacity:.5}.ca-token{font:500 10px var(--mono);white-space:nowrap;text-decoration:underline;text-underline-offset:3px;flex-shrink:0}@media(max-width:650px){.ca-bar{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:8px 10px;padding:13px 22px}.ca-label{font-size:10px}.ca-bar code{font-size:10px;grid-column:2 / 4}.ca-copy{grid-column:2;width:max-content;font-size:9px;padding:7px 10px}.ca-token{grid-column:3;justify-self:end;font-size:9px}}
