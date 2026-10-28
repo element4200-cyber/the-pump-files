@@ -1,0 +1,12 @@
+{
+  "checked": "2026-10-27",
+  "note": "Real assets identify the brands discussed. No endorsement or affiliation is implied. Legal entities with no public logo found use their names. Pump products share the Pump mark. GO is displayed by its published product name.",
+  "assets": [
+    {"file":"pump.png","brand":"Pump.fun","source":"https://avatars.githubusercontent.com/u/148890315?s=200&v=4","context":"Official pump-fun GitHub organization: https://github.com/pump-fun/pump-public-docs"},
+    {"file":"padre.svg","brand":"Padre / Terminal","source":"https://padre.gg/favicon.svg","context":"Current official site icon; the brand was renamed Terminal after acquisition"},
+    {"file":"kolscan.jpg","brand":"Kolscan","source":"https://pbs.twimg.com/profile_images/1851772284996063232/XsnuTOpk_400x400.jpg","context":"Official https://x.com/kolscan profile logo"},
+    {"file":"vyper.png","brand":"Vyper","source":"https://docs.vyper.trade/","context":"Unchanged apple-touch-icon from the official documentation's published image URL"},
+    {"file":"pumpcade.png","brand":"Pumpcade","source":"https://docs.cade.market/mintlify-assets/_mintlify/favicons/pumpcade/QDoMrfllXIzqQ7E1/_generated/favicon/android-chrome-192x192.png","context":"Official Pumpcade documentation icon"},
+    {"file":"alon.webp","subject":"Alon Cohen","source":"https://www.crunchbase.com/person/alon-cohen-d581","image_url":"https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/b4e00f6d62e94902a9c866b221ee1991","context":"Published founder profile portrait; no image synthesis"}
+  ]
+}
